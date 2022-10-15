@@ -1,6 +1,6 @@
-##我的OJ日记
-# my_onlinejudge_diary
+#我的OJ日记
+## my_onlinejudge_diary
 <br>
-[My codeforces]:（https://codeforces.com/profile/yanboishere）
+[Mycodeforces](https://codeforces.com/profile/yanboishere）
 
-[我的luogu]:(https://www.luogu.com.cn/user/426741)
+[我的luogu](https://www.luogu.com.cn/user/426741)

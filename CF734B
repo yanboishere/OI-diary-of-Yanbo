@@ -1,0 +1,14 @@
+#2022.10.15
+#include<iostream>
+#include<cstdio>
+#include<cmath>
+using namespace std;
+int number2,number3,number5,number6,answer;
+int main()
+{
+    cin>>number2>>number3>>number5>>number6>>answer;
+    int a=min(number2,number5),b=min(a,number6);
+    answer+=256*b;
+    answer+=32*min(number2-b,number3);
+    cout<<answer<<endl;
+}

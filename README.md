@@ -4,4 +4,8 @@
 [codeforces](https://codeforces.com/profile/yanboishere)
 [我的luogu](https://www.luogu.com.cn/user/426741)
 
-2022.10.15 
+#2022
+
+10.15 CF734B <br>
+10.28 LG P5703
+

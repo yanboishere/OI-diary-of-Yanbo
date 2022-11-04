@@ -1,3 +1,4 @@
+/* 
 # 字符三角形
 
 ## 题目描述
@@ -31,6 +32,8 @@
 ## 提示
 
 对于 $100 \%$ 的数据，输入的字符是 ASCII 中的可见字符。
+*/
+ 
 #include<bits/stdc++.h>
 using namespace std;
 char c;

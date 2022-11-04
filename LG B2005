@@ -1,0 +1,9 @@
+#include<cstdio>
+int main(){
+     char a;//定义
+     scanf("%a",&a);//输入，注意要取地址
+     printf("  %a  \n",a);
+     printf(" %a%a%a \n",a,a,a);
+     printf("%a%a%a%a%a\n",a,a,a,a,a);
+     return 0;
+}

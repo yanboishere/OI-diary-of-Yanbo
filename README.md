@@ -4,10 +4,11 @@
 [我的codeforces主页](https://codeforces.com/profile/yanboishere)
 [我的洛谷(luogu)主页](https://www.luogu.com.cn/user/426741)
 
+(LG开头的项目目是指洛谷网上的题目，其后为题号)
 #2022
 
 10.15 CF734B <br>
 10.28 LG P5703 <br>
 11.04 LG P5706 <br>
-      LG B2025 
-
+      LG B2025 <br>
+      

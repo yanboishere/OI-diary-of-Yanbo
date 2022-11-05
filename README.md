@@ -31,7 +31,9 @@
 
 在此感谢父母以及老师们一路上的支持。<br>
 感谢[@menci](https://github.com/Menci) [@P2oileen](https://github.com/P2Oileen)@hzwei @kkksc03 @darkflames @rqy @范滇东 @chen_zhe @anguei 几位大佬建立的平台（如洛谷，OI wiki），以及发过的文章和视频，将我带入oi的世界中。<br>
+感谢《算法竞赛入门经典》《深入浅出程序设计竞赛》的作者团队。
 感谢洛谷网上的那些提供题解和思路的大佬们。
+
 
 
 

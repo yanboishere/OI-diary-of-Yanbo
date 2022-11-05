@@ -23,10 +23,11 @@
 
 而高考结束，刚大一开学的我就报名了明年的蓝桥杯比赛，因为我从来都真心希望我自己不留遗憾。<br>
 现在的我基本就是从头再来，不过这样也好，正好我可以从今天开始，记录下我的未来......<br>
-
-
+<br>
+<br>
 **加油烟波同学!道阻且长。**<br>
-
+<br>
+<br>
 
 在此感谢父母以及老师们一路上的支持。<br>
 感谢[@menci](https://github.com/Menci) [@P2oileen](https://github.com/P2Oileen)@hzwei @kkksc03 @darkflames @rqy @范滇东 @chen_zhe @anguei 几位大佬建立的平台（如洛谷，OI wiki），以及发过的文章和视频，将我带入oi的世界中。<br>

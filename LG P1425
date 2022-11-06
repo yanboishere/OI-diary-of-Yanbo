@@ -35,14 +35,17 @@
 
 对于全部测试数据，$0\le a,c \le 24$，$0\le b,d \le 60$，且结束时间一定晚于开始时间。
 */
+
+
+
 #include <iostream>
 using namespace std;
 int main()
 {
     int a,b,c,d;
     cin>>a>>b>>c>>d;
-    int x=c-a,y=d-b;
-    if(y<0){x--;y+=60}
+    int x=c-a,y=d-b;//开始的时间小时a和分钟b和结束的时间小时c和分钟d
+    if(y<0){x--;y+=60}//y为负数,再加1*60（注意x--和y+=60后加；）
     cout<<x<<" "<<y;
     return 0;
     }

@@ -41,7 +41,7 @@ A + B 问题的题目描述如下：给定两个整数 $A$ 和 $B$，输出 $A +
 using namespace std;
 int main()
 {
-    long long a,b,c=0;
+    long long a,b,c=0;//数据类型不知道，用long long。
     scanf("%lld%lld",&a,&b);
     c=a+b;
     printf("%lld",c);

@@ -30,11 +30,11 @@
 #include<bits/stdc++.h>
 using namespace std;
 int main(){
-	double r,d,c,s,pi=3.14159;
+	double r,d,c,s,PI=3.14159;
 	cin>>r;
 	d=2*r;
-	c=2*r*pi;
-	s=pi*r*r;
+	c=2*r*PI;
+	s=PI*r*r;
 	printf("%0.4f %0.4f %0.4f",d,c,s);
 	return 0;
 }

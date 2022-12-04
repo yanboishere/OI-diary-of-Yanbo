@@ -1,3 +1,5 @@
+/*
+
 # 【深基2.例5】苹果采购
 
 ## 题目描述
@@ -25,6 +27,7 @@
 ```
 15
 ```
+*/
 
 #include <iostream>
 using namespace std;

@@ -31,7 +31,7 @@
 #### 数据规模与约定
 
         对于全部的测试点，保证 $0 \leq a \leq 10^4$，$0 \leq b \leq 9$。*/
-#include<cstdio>
+#include<stdio.h>
 int main()
 {
     int a,b;//a元b角

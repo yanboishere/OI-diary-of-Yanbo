@@ -18,7 +18,7 @@ add_executable(my_onlinejudge_coding_diary
         "code/Before 2022.12.01/LG B2017.cpp"
         "code/Before 2022.12.01/LG B2025.cpp"
         "code/Before 2022.12.01/LG B2029.cpp"
-        "code/Before 2022.12.01/LG P1421.cpp"
+        "code/Before 2022.12.01/LG P1421.c"
         "code/Before 2022.12.01/LG P1425.cpp"
         "code/Before 2022.12.01/LG P3954.cpp"
         "code/Before 2022.12.01/LG P5703.cpp"

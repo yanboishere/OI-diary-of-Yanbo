@@ -66,7 +66,6 @@
 				11,
 				12,
 				13,
-				14,
 				15,
 				16,
 				17,
@@ -78,6 +77,19 @@
 				23,
 				24,
 				25
+			]
+		},
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.0.sdk -fcolor-diagnostics"
+				}
+			],
+			"language" : "C",
+			"sourceIndexes" : 
+			[
+				14
 			]
 		}
 	],
@@ -227,8 +239,8 @@
 		},
 		{
 			"backtrace" : 1,
-			"compileGroupIndex" : 0,
-			"path" : "code/Before 2022.12.01/LG P1421.cpp",
+			"compileGroupIndex" : 1,
+			"path" : "code/Before 2022.12.01/LG P1421.c",
 			"sourceGroupIndex" : 0
 		},
 		{

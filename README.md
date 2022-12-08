@@ -1,5 +1,5 @@
 ## my_onlinejudge_coding_diary
-#我的OJ日记
+### 我的OJ日记
 
 **前言**<br>
 现在是2022年11月5日，我在学校实验室里的工位上编辑着这个项目，突然想写一段前言，来讲述我高中时代在oi上的付出。<br>
@@ -58,20 +58,28 @@
             📅          题目<br>
       
       10.15 CF734B 
+
       10.28 LG P5703 
+
       11.04 LG P5706 
             LG B2025
             LG B2005
             LG P3954
+
       11.05 LG B2029
+
       11.06 LG P1425
             LG P1421
+
       11.07 LG P2433
+
       11.09 LG P5715
             LG P5714
             LG P5711
             LG P5713
+
       11.11 LG P5707
+
       11.15 LG P5717
             LG B2007
             LG B2008
@@ -81,8 +89,11 @@
             LG B2003
             LG B2010
             LG B2013
+
       12.01 LG B2014
             LG P1428
+      
+12.08 修改项目名称 ~~my_onlinejudge_coding_diary~~ 改为 **OI-diary**
      
       
       

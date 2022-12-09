@@ -1,4 +1,4 @@
-## OI-diary
+## OI-diary-of-Yanbo
 ### 我的OI日记
 
 **前言**<br>
@@ -93,7 +93,7 @@
       12.01 LG B2014
             LG P1428
       
-12.08 修改项目名称 ~~my_onlinejudge_coding_diary~~ 改为 **OI-diary**
+12.08 修改项目名称 ~~my_onlinejudge_coding_diary~~ 改为 **OI-diary-of-Yanbo**
       
       12.09      
       

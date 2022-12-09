@@ -18,7 +18,9 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="90140aa0-5b3d-490c-a0ee-99c9d6278dc3" name="变更" comment="Changed File by Yanbo Wang." />
+    <list default="true" id="90140aa0-5b3d-490c-a0ee-99c9d6278dc3" name="变更" comment="Changed File by Yanbo Wang.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -72,7 +74,7 @@
       <option name="presentableId" value="Default" />
       <updated>1670508013682</updated>
       <workItem from="1670508015021" duration="2734000" />
-      <workItem from="1670567509926" duration="544000" />
+      <workItem from="1670567509926" duration="2105000" />
     </task>
     <task id="LOCAL-00001" summary="Changed file by Yanbo Wang.">
       <created>1670508065913</created>
@@ -165,7 +167,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670567753798</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Changed File by Yanbo Wang.">
+      <created>1670568198407</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1670568198407</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

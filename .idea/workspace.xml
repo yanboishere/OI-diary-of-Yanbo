@@ -18,9 +18,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="90140aa0-5b3d-490c-a0ee-99c9d6278dc3" name="变更" comment="Changed File by Yanbo Wang.">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="90140aa0-5b3d-490c-a0ee-99c9d6278dc3" name="变更" comment="Merge remote-tracking branch 'origin/master'" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -68,7 +66,7 @@
       <updated>1670508013682</updated>
       <workItem from="1670508015021" duration="2734000" />
       <workItem from="1670567509926" duration="4421000" />
-      <workItem from="1670859832317" duration="4000" />
+      <workItem from="1670859832317" duration="645000" />
     </task>
     <task id="LOCAL-00001" summary="Changed file by Yanbo Wang.">
       <created>1670508065913</created>
@@ -182,7 +180,21 @@
       <option name="project" value="LOCAL" />
       <updated>1670571467880</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Merge remote-tracking branch 'origin/master'">
+      <created>1670859858742</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1670859858742</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Merge remote-tracking branch 'origin/master'">
+      <created>1670860562151</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1670860562151</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -201,8 +213,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Changed file by Yanbo Wang." />
-    <MESSAGE value="Merge remote-tracking branch 'origin/master'" />
     <MESSAGE value="Changed File by Yanbo Wang." />
-    <option name="LAST_COMMIT_MESSAGE" value="Changed File by Yanbo Wang." />
+    <MESSAGE value="Merge remote-tracking branch 'origin/master'" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/master'" />
   </component>
 </project>

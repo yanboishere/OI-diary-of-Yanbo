@@ -1,7 +1,8 @@
-## my_onlinejudge_coding_diary
-### 我的OJ日记
+## OI-diary-of-Yanbo
+### 我的OI日记
 
 **前言**<br>
+
 现在是2022年11月5日，我正在编辑这个项目，突然想写一段前言，来讲述我高中时代在oi上的付出。<br>
 
 2020年10月，我正值高二。
@@ -33,6 +34,7 @@
 在此感谢父母以及老师们一路上的支持。<br>
 感谢[@menci](https://github.com/Menci) [@P2oileen](https://github.com/P2Oileen)@hzwei @kkksc03 @darkflames @rqy @范滇东 @chen_zhe @anguei 几位大佬建立的平台（如洛谷，OI wiki），以及发过的文章和视频，将我带入oi的世界中。<br>
 感谢《算法竞赛入门经典》《深入浅出程序设计竞赛》的作者团队。<br>
+感谢李龙跃学长的鼓励与支持。
 感谢洛谷网上的那些提供题解和思路的大佬们。<br>
 
 
@@ -93,7 +95,7 @@
       12.01 LG B2014
             LG P1428
       
-12.08 修改项目名称 ~~my_onlinejudge_coding_diary~~ 改为 **OI-diary**
+12.08 修改项目名称 ~~my_onlinejudge_coding_diary~~ 改为 **OI-diary-of-Yanbo**
       
       12.      
       

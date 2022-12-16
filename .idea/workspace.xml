@@ -18,8 +18,10 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="90140aa0-5b3d-490c-a0ee-99c9d6278dc3" name="变更" comment="Merge remote-tracking branch 'origin/master'">
-      <change beforePath="$PROJECT_DIR$/code/2022.12/12.13/LG B2004.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/code/2022.12/12.13/LG B2004.cpp" afterDir="false" />
+    <list default="true" id="90140aa0-5b3d-490c-a0ee-99c9d6278dc3" name="变更" comment="Changed file by Yanbo Wang.">
+      <change afterPath="$PROJECT_DIR$/code/Before 2022.12.01/wt.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Before 2022.12.01/wt.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +70,8 @@
       <updated>1670508013682</updated>
       <workItem from="1670508015021" duration="2734000" />
       <workItem from="1670567509926" duration="4421000" />
-      <workItem from="1670859832317" duration="2158000" />
+      <workItem from="1670859832317" duration="3001000" />
+      <workItem from="1671114107020" duration="1468000" />
     </task>
     <task id="LOCAL-00001" summary="Changed file by Yanbo Wang.">
       <created>1670508065913</created>
@@ -217,7 +220,28 @@
       <option name="project" value="LOCAL" />
       <updated>1670940415679</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Changed file by Yanbo Wang.">
+      <created>1670940525665</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1670940525665</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Changed file by Yanbo Wang.">
+      <created>1670940563479</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1670940563479</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Changed file by Yanbo Wang.">
+      <created>1670940682858</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1670940682858</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -235,9 +259,9 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Changed file by Yanbo Wang." />
     <MESSAGE value="Changed File by Yanbo Wang." />
     <MESSAGE value="Merge remote-tracking branch 'origin/master'" />
-    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/master'" />
+    <MESSAGE value="Changed file by Yanbo Wang." />
+    <option name="LAST_COMMIT_MESSAGE" value="Changed file by Yanbo Wang." />
   </component>
 </project>

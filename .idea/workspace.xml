@@ -30,6 +30,7 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -68,28 +69,7 @@
       <workItem from="1670567509926" duration="4421000" />
       <workItem from="1670859832317" duration="3001000" />
       <workItem from="1671114107020" duration="2082000" />
-      <workItem from="1671182910949" duration="1584000" />
-    </task>
-    <task id="LOCAL-00001" summary="Changed file by Yanbo Wang.">
-      <created>1670508065913</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1670508065913</updated>
-    </task>
-    <task id="LOCAL-00002" summary="Changed file by Yanbo Wang.">
-      <created>1670508706584</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1670508706584</updated>
-    </task>
-    <task id="LOCAL-00003" summary="Changed file by Yanbo Wang.">
-      <created>1670508765959</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1670508765959</updated>
+      <workItem from="1671182910949" duration="1960000" />
     </task>
     <task id="LOCAL-00004" summary="Changed file by Yanbo Wang.">
       <created>1670508784133</created>
@@ -399,7 +379,42 @@
       <option name="project" value="LOCAL" />
       <updated>1671184492999</updated>
     </task>
-    <option name="localTasksCounter" value="48" />
+    <task id="LOCAL-00048" summary="Changed file by Yanbo Wang.">
+      <created>1671184608584</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1671184608584</updated>
+    </task>
+    <task id="LOCAL-00049" summary="Changed file by Yanbo Wang.">
+      <created>1671184635357</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1671184635357</updated>
+    </task>
+    <task id="LOCAL-00050" summary="Changed file by Yanbo Wang.">
+      <created>1671184723790</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1671184723792</updated>
+    </task>
+    <task id="LOCAL-00051" summary="Changed file by Yanbo Wang.">
+      <created>1671184746255</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1671184746255</updated>
+    </task>
+    <task id="LOCAL-00052" summary="Changed file by Yanbo Wang.">
+      <created>1671184772289</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1671184772289</updated>
+    </task>
+    <option name="localTasksCounter" value="53" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

@@ -18,7 +18,10 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="90140aa0-5b3d-490c-a0ee-99c9d6278dc3" name="变更" comment="Changed file by Yanbo Wang." />
+    <list default="true" id="90140aa0-5b3d-490c-a0ee-99c9d6278dc3" name="变更" comment="Changed file by Yanbo Wang.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/2022.12/12.01/LG B2014.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/code/2022.12/12.01/LG B2014.cpp" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -69,70 +72,10 @@
       <workItem from="1670567509926" duration="4421000" />
       <workItem from="1670859832317" duration="3001000" />
       <workItem from="1671114107020" duration="2082000" />
-      <workItem from="1671182910949" duration="2479000" />
-    </task>
-    <task id="LOCAL-00006" summary="Changed File by Yanbo Wang.">
-      <created>1670509439601</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1670509439601</updated>
-    </task>
-    <task id="LOCAL-00007" summary="Changed File by Yanbo Wang.">
-      <created>1670509517151</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1670509517151</updated>
-    </task>
-    <task id="LOCAL-00008" summary="Changed File by Yanbo Wang.">
-      <created>1670557357644</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1670557357644</updated>
-    </task>
-    <task id="LOCAL-00009" summary="Changed File by Yanbo Wang.">
-      <created>1670564512858</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1670564512858</updated>
-    </task>
-    <task id="LOCAL-00010" summary="Changed File by Yanbo Wang.">
-      <created>1670567520810</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1670567520810</updated>
-    </task>
-    <task id="LOCAL-00011" summary="Changed File by Yanbo Wang.">
-      <created>1670567711035</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1670567711035</updated>
-    </task>
-    <task id="LOCAL-00012" summary="Changed File by Yanbo Wang.">
-      <created>1670567726950</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1670567726950</updated>
-    </task>
-    <task id="LOCAL-00013" summary="Changed File by Yanbo Wang.">
-      <created>1670567753798</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1670567753798</updated>
-    </task>
-    <task id="LOCAL-00014" summary="Changed File by Yanbo Wang.">
-      <created>1670568198407</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1670568198407</updated>
+      <workItem from="1671182910949" duration="3270000" />
+      <workItem from="1671186901225" duration="738000" />
+      <workItem from="1672148589632" duration="10000" />
+      <workItem from="1672213543834" duration="550000" />
     </task>
     <task id="LOCAL-00015" summary="Changed File by Yanbo Wang.">
       <created>1670571457513</created>
@@ -414,7 +357,70 @@
       <option name="project" value="LOCAL" />
       <updated>1671185568238</updated>
     </task>
-    <option name="localTasksCounter" value="55" />
+    <task id="LOCAL-00055" summary="Changed file by Yanbo Wang.">
+      <created>1671185668619</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1671185668619</updated>
+    </task>
+    <task id="LOCAL-00056" summary="Changed file by Yanbo Wang.">
+      <created>1671185747259</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1671185747259</updated>
+    </task>
+    <task id="LOCAL-00057" summary="Changed file by Yanbo Wang.">
+      <created>1671185868022</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1671185868022</updated>
+    </task>
+    <task id="LOCAL-00058" summary="Changed file by Yanbo Wang.">
+      <created>1671185949346</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1671185949346</updated>
+    </task>
+    <task id="LOCAL-00059" summary="Changed file by Yanbo Wang.">
+      <created>1671186060253</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1671186060253</updated>
+    </task>
+    <task id="LOCAL-00060" summary="Changed file by Yanbo Wang.">
+      <created>1671186097215</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1671186097215</updated>
+    </task>
+    <task id="LOCAL-00061" summary="Changed file by Yanbo Wang.">
+      <created>1671186344437</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1671186344437</updated>
+    </task>
+    <task id="LOCAL-00062" summary="Changed file by Yanbo Wang.">
+      <created>1671186954195</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1671186954196</updated>
+    </task>
+    <task id="LOCAL-00063" summary="Changed file by Yanbo Wang.">
+      <created>1671187038547</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1671187038547</updated>
+    </task>
+    <option name="localTasksCounter" value="64" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

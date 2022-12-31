@@ -1,5 +1,5 @@
-## OI-diary-of-Yanbo
-### 我的OI日记
+# OI-diary-of-Yanbo
+## 我的OI日记
 
 **前言**<br>
 

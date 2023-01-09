@@ -60,45 +60,57 @@
 #2022<br>
             📅          题目<br>
       
-      10.15 CF734B 
+10.15 
+- [x] CF734B 
 
-      10.28 LG P5703 
+10.28 
+- [x] LG P5703 
 
-      11.04 LG P5706 
-            LG B2025
-            LG B2005
-            LG P3954
+11.04 
+-[x] LG P5706 
+-[x] LG B2025
+-[x] LG B2005
+-[x] LG P3954
 
-      11.05 LG B2029
+11.05 
+-[x] LG B2029
 
-      11.06 LG P1425
-            LG P1421
+11.06 
+-[x] LG P1425
+-[x] LG P1421
 
-      11.07 LG P2433
+11.07 
+-[x] LG P2433
 
-      11.09 LG P5715
-            LG P5714
-            LG P5711
-            LG P5713
+11.09 
+-[x] LG P5715
+-[x] LG P5714
+-[x] LG P5711
+-[x] LG P5713
 
-      11.11 LG P5707
+11.11 
+-[x] LG P5707
 
-      11.15 LG P5717
-            LG B2007
-            LG B2008
-            LG B2009
-            LG B2017
-            LG B2012
-            LG B2003
-            LG B2010
-            LG B2013
+11.15 
+-[x] LG P5717
+-[x] LG B2007
+-[x] LG B2008
+-[x] LG B2009
+-[x] LG B2017
+-[x] LG B2012
+-[x] LG B2003
+-[x] LG B2010
+-[x] LG B2013
 
-      12.01 LG B2014
-            LG P1428
+12.01 
+-[x] LG B2014
+-[x] LG P1428
       
-12.08 修改项目名称 ~~my_onlinejudge_coding_diary~~ 改为 **OI-diary-of-Yanbo**
+12.08 
+修改项目名称 ~~my_onlinejudge_coding_diary~~ 改为 **OI-diary-of-Yanbo**
       
-      12.13 LG B2004
+12.13 
+-[x] LG B2004
       
       
       

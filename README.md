@@ -67,50 +67,50 @@
 - [x] LG P5703 
 
 11.04 
--[x] LG P5706 
--[x] LG B2025
--[x] LG B2005
--[x] LG P3954
+- [x] LG P5706 
+- [x] LG B2025
+- [x] LG B2005
+- [x] LG P3954
 
 11.05 
--[x] LG B2029
+- [x] LG B2029
 
 11.06 
--[x] LG P1425
--[x] LG P1421
+- [x] LG P1425
+- [x] LG P1421
 
 11.07 
--[x] LG P2433
+- [x] LG P2433
 
 11.09 
-    -[x] LG P5715
--[x] LG P5714
--[x] LG P5711
--[x] LG P5713
+- [x] LG P5715
+- [x] LG P5714
+- [x] LG P5711
+- [x] LG P5713
 
 11.11 
--[x] LG P5707
+- [x] LG P5707
 
 11.15 
--[x] LG P5717
--[x] LG B2007
--[x] LG B2008
--[x] LG B2009
--[x] LG B2017
--[x] LG B2012
--[x] LG B2003
--[x] LG B2010
--[x] LG B2013
+- [x] LG P5717
+- [x] LG B2007
+- [x] LG B2008
+- [x] LG B2009
+- [x] LG B2017
+- [x] LG B2012
+- [x] LG B2003
+- [x] LG B2010
+- [x] LG B2013
 
 12.01 
--[x] LG B2014
--[x] LG P1428
+- [x] LG B2014
+- [x] LG P1428
       
 12.08 
 修改项目名称 ~~my_onlinejudge_coding_diary~~ 改为 **OI-diary-of-Yanbo**
       
 12.13 
--[x] LG B2004
+- [x] LG B2004
       
       
       

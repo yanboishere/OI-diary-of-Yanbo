@@ -20,7 +20,6 @@
   <component name="ChangeListManager">
     <list default="true" id="90140aa0-5b3d-490c-a0ee-99c9d6278dc3" name="变更" comment="Changed file by Yanbo Wang.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/2022.12/12.01/LG B2014.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/code/2022.12/12.01/LG B2014.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,20 +75,8 @@
       <workItem from="1671186901225" duration="738000" />
       <workItem from="1672148589632" duration="10000" />
       <workItem from="1672213543834" duration="550000" />
-    </task>
-    <task id="LOCAL-00015" summary="Changed File by Yanbo Wang.">
-      <created>1670571457513</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1670571457513</updated>
-    </task>
-    <task id="LOCAL-00016" summary="Changed File by Yanbo Wang.">
-      <created>1670571467880</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1670571467880</updated>
+      <workItem from="1672294691741" duration="1213000" />
+      <workItem from="1673302702117" duration="5000" />
     </task>
     <task id="LOCAL-00017" summary="Merge remote-tracking branch 'origin/master'">
       <created>1670859858742</created>
@@ -420,7 +407,21 @@
       <option name="project" value="LOCAL" />
       <updated>1671187038547</updated>
     </task>
-    <option name="localTasksCounter" value="64" />
+    <task id="LOCAL-00064" summary="Changed file by Yanbo Wang.">
+      <created>1672298369255</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1672298369256</updated>
+    </task>
+    <task id="LOCAL-00065" summary="Changed file by Yanbo Wang.">
+      <created>1672298375198</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1672298375198</updated>
+    </task>
+    <option name="localTasksCounter" value="66" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
